@@ -1,6 +1,5 @@
 # Python-Basic-Grammer
 
----
 
 1. [파이썬 기초 개념](https://github.com/Team-COSADAMA/Python-Basic-Grammer/tree/main/1.%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EA%B8%B0%EC%B4%88%20%EA%B0%9C%EB%85%90)
 
