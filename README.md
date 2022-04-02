@@ -21,3 +21,12 @@
 3. aaa
 4. aaa
 5. aaa
+6. [제어문](https://github.com/JeongYunLee/Python-Basic-Grammer/tree/main/6.%20%EC%A0%9C%EC%96%B4%EB%AC%B8)
+    6-1 [if문 이란?](https://github.com/JeongYunLee/Python-Basic-Grammer/blob/main/6.%20%EC%A0%9C%EC%96%B4%EB%AC%B8/6-1%20if%EB%AC%B8%20%EC%9D%B4%EB%9E%80%3F.md)
+    6-2 [if문과 연산자](https://github.com/JeongYunLee/Python-Basic-Grammer/blob/main/6.%20%EC%A0%9C%EC%96%B4%EB%AC%B8/6-2%20if%EB%AC%B8%EA%B3%BC%20%EC%97%B0%EC%82%B0%EC%9E%90.md)
+    6-3 [if문 유의점](https://github.com/JeongYunLee/Python-Basic-Grammer/blob/main/6.%20%EC%A0%9C%EC%96%B4%EB%AC%B8/6-3%20if%EB%AC%B8%20%EC%9C%A0%EC%9D%98%EC%A0%90.md)
+    6-4 [while문이란?](https://github.com/JeongYunLee/Python-Basic-Grammer/blob/main/6.%20%EC%A0%9C%EC%96%B4%EB%AC%B8/6-4%20while%EB%AC%B8%EC%9D%B4%EB%9E%80%3F.md)
+    6-5 [while문 유의점](https://github.com/JeongYunLee/Python-Basic-Grammer/blob/main/6.%20%EC%A0%9C%EC%96%B4%EB%AC%B8/6-5%20while%EB%AC%B8%20%EC%9C%A0%EC%9D%98%EC%A0%90.md)
+    6-6 [for문 이란?](https://github.com/JeongYunLee/Python-Basic-Grammer/blob/main/6.%20%EC%A0%9C%EC%96%B4%EB%AC%B8/6-6%20for%EB%AC%B8%EC%9D%B4%EB%9E%80%3F.md)
+    6-7 [for문 응용](https://github.com/JeongYunLee/Python-Basic-Grammer/blob/main/6.%20%EC%A0%9C%EC%96%B4%EB%AC%B8/6-7%20for%EB%AC%B8%20%EC%9D%91%EC%9A%A9.md)
+    6-8 [실습](https://github.com/JeongYunLee/Python-Basic-Grammer/blob/main/6.%20%EC%A0%9C%EC%96%B4%EB%AC%B8/6-8%20%EC%8B%A4%EC%8A%B5.md)
