@@ -1,4 +1,4 @@
-## for문이란?
+## 6-6 for문이란?
 
 
 해당 파트는 이 [영상](https://www.youtube.com/embed/PNnZ9YXbF14?list=PLGPF8gvWLYypeEoFNTfSHdFL5WRLAfmmm)을 시청 후 교안을 정독해주세요.    
