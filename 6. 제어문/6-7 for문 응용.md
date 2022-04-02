@@ -1,4 +1,4 @@
-## for문 응용
+## 6-7 for문 응용
 
 해당 파트는 이 [영상](https://www.youtube.com/embed/qC4x-nTCZxg?list=PLGPF8gvWLYypeEoFNTfSHdFL5WRLAfmmm)을 시청 후 교안을 정독해주세요.
 
