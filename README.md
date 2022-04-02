@@ -1,7 +1,8 @@
 # Python-Basic-Grammer
 
+0. [추천 학습 가이드](https://github.com/JeongYunLee/Python-Basic-Grammer/blob/main/0.%20%EC%B6%94%EC%B2%9C%20%ED%95%99%EC%8A%B5%20%EA%B0%80%EC%9D%B4%EB%93%9C/0-1.%20%EC%B6%94%EC%B2%9C%20%ED%95%99%EC%8A%B5%20%EA%B0%80%EC%9D%B4%EB%93%9C.md) 
 
-1. [파이썬 기초 개념](https://github.com/Team-COSADAMA/Python-Basic-Grammer/tree/main/1.%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EA%B8%B0%EC%B4%88%20%EA%B0%9C%EB%85%90)
+2. [파이썬 기초 개념](https://github.com/Team-COSADAMA/Python-Basic-Grammer/tree/main/1.%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EA%B8%B0%EC%B4%88%20%EA%B0%9C%EB%85%90)
 
     1.1 [프로그래밍 프로그래밍 언어란](https://github.com/Team-COSADAMA/Python-Basic-Grammer/blob/main/1.%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EA%B8%B0%EC%B4%88%20%EA%B0%9C%EB%85%90/1.1%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%96%B8%EC%96%B4%EB%9E%80_.md)   
     1.2 [파이썬이란_ 왜 파이썬을 배울까?](https://github.com/Team-COSADAMA/Python-Basic-Grammer/blob/main/1.%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EA%B8%B0%EC%B4%88%20%EA%B0%9C%EB%85%90/1.2%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%B4%EB%9E%80_%20%EC%99%9C%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84%20%EB%B0%B0%EC%9A%B8%EA%B9%8C_.md)    
